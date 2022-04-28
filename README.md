@@ -1,7 +1,7 @@
 # Hello, World! I'm Henry 👋 
 
 
-## I'm a CS Student, Aspiring Software Engineer !!
+## I'm a CS Student And Aspiring Software Engineer !!
 
 - 📍 Based in New York, New York
 - 🏢 Seeking new grad employment
