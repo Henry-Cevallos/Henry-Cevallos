@@ -20,7 +20,6 @@
 ### Languages and Tools:
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -45,9 +44,10 @@
 
 ---
 
-<br /> 
 
-<img align="left" alt="Henry Cevallos' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Henry-Cevallos&count_private=true&show_icons=true&hide=issues,stars&theme=radical" />
+## Some Stats on Me:
+
+<img align="left" alt="Henry Cevallos' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Henry-Cevallos&count_private=true&show_icons=true&hide=issues,stars&theme=dark" />
 
 <br /> <br /><br /><br /> <br /><br /><br /><br />
 
